@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CVOPT.iml" filepath="$PROJECT_DIR$/CVOPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CV_Sampling.iml" filepath="$PROJECT_DIR$/CV_Sampling.iml" />
+    </modules>
+  </component>
+</project>
